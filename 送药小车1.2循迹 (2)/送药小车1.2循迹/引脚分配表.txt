@@ -1,0 +1,17 @@
+/------电机分配
+PWMB PB0
+ BIN2 PB12
+ BIN1 PB13
+ STBY 3.3V
+ AIN1 PB14
+ AIN2 PB15
+ PWMA PB1
+ /------按键分配
+ PA3 key1
+ PA4 key2
+ /----mpu6050
+ scl pb10
+ sda pb11
+ /----oled
+ scl pb8
+ sda pb9
